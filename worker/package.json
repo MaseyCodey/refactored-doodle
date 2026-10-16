@@ -1,1 +1,0 @@
-{"name":"mase-mail-worker","private":true,"type":"module","scripts":{"deploy":"wrangler deploy","db:setup":"wrangler d1 execute mase-mail --remote --file=schema.sql"},"dependencies":{"postal-mime":"^2.7.2"},"devDependencies":{"wrangler":"^4.0.0"}}
